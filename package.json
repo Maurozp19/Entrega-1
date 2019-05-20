@@ -1,0 +1,15 @@
+{
+  "name": "entrega",
+  "version": "1.0.1",
+  "description": "Primera entrega",
+  "main": "principal.js",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mauricio mzapatap@unal.edu.co",
+  "license": "ISC"
+}
