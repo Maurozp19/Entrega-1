@@ -4,7 +4,7 @@
   "description": "Primera entrega",
   "main": "principal.js",
   "dependencies": {
-    "yargs": "^13.2.4"
+    "yargs": "^13.3.2"
   },
   "devDependencies": {},
   "scripts": {
